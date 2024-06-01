@@ -1,0 +1,12 @@
+setup.py
+cartoonizer/__init__.py
+cartoonizer/cartoon_effect.py
+cartoonizer/color_quantization.py
+cartoonizer/edge_detection.py
+cartoonizer/preprocessing.py
+cartoonizer.egg-info/PKG-INFO
+cartoonizer.egg-info/SOURCES.txt
+cartoonizer.egg-info/dependency_links.txt
+cartoonizer.egg-info/requires.txt
+cartoonizer.egg-info/top_level.txt
+tests/test_cartoonizer.py

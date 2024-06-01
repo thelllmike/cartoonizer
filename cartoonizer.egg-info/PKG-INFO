@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: cartoonizer
+Version: 0.1.0
+Summary: A library for converting normal pictures to cartoon-like images
+Author: Your Name
+Author-email: your.email@example.com
+Requires-Dist: Pillow
+Requires-Dist: numpy
+Requires-Dist: opencv-python
